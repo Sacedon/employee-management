@@ -30,7 +30,7 @@
 
     <h1 style="text-align: center; margin: 40px 0;">Statement of Account</h1>
 
-    <p>Greetings, {{ $employee->name }},!</p>
+
 
     <p>{{ $content }}</p>
 </body>
